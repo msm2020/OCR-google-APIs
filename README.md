@@ -1,5 +1,7 @@
 # OCR-google-APIs
-OCR text detection with google APIs C#, implement text detection using google API with C# 
+OCR text detection with google APIs C#, implement text detection using google API with C#, 
+
+Read more on my blog : http://msm2020-sc.blogspot.com.eg/2016/05/ocr-text-detection-with-google-apis-c.html
 
 After searching more than 3 hrs to know how to implement text detection using google API i decided to write this post, hope it help c# developer to know how to use and implement Vision API,
 
@@ -86,8 +88,6 @@ BatchAnnotateImagesResponse batchAnnotateImagesResponse = annotate.Execute();
 Output
 
 ![Image](https://4.bp.blogspot.com/-gFFageAE-P0/VzcWi3DToEI/AAAAAAAAAe8/d2vpCVBFrLYSU5_J0UxJOiJ9u0hdqH1qgCKgB/s1600/ocr7.png)
-
-Source Code : https://github.com/msm2020/OCR-google-APIs
 
 Google reference :
 * https://cloud.google.com/vision/docs/
